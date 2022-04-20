@@ -7,7 +7,7 @@ This has public builds of summarize prototype. To check it out download the apk 
     > ![](flutter_01.png)
 - Choose dark theme instead of light (😅 light was kinda buggy when i working on it before)
     > ![](flutter_02-COLLAGE.jpg)
-- Click on the + button and then click on text button
+- Click on the + button and then click on text button to add text as source 📑
 - Enter any piece of text (upto a limit) in this case I will use
     > The first version of Flutter was known as "Sky" and ran on the Android operating system. It was unveiled at the 2015 Dart developer summit[8] with the stated intent of being able to render consistently at 120 frames per second.[9] During the keynote of Google Developer Days in Shanghai in September 2018, Google announced Flutter Release Preview 2, the last major release before Flutter 1.0. On December 4th of that year, Flutter 1.0 was released at the Flutter Live event, denoting the first stable version of the framework. On December 11, 2019, Flutter 1.12 was released at the Flutter Interactive event.[10]
     
